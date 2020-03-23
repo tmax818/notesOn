@@ -6,7 +6,8 @@ So, I decided to create a separate notes on folder. I have decided make each sub
 
 - [C](c/notes.md)
 - [C++](cpp/notes.md)
+- [Express](express/notes.md)
 - [JavaScript](javaScript/notes.md)
+- [Nodejs](nodejs/notes.md)
 - [React](react/notes.md)
 - [React Native](react-native/notes.md)
-- [Express](express/notes.md)

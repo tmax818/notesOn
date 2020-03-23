@@ -1,0 +1,12 @@
+{
+  "name": "sample-app",
+  "homepage": "https://www.tylermaxwell.co/${name}",
+  "version": "1.0.0",
+  "description": "test out the npm scripts stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo $npm_package_homepage"
+  },
+  "author": "",
+  "license": "ISC"
+}
