@@ -12,3 +12,5 @@
 - undefined
   - behaves as `false` in a boolean context
   - converts to `Nan` in a numeric context
+
+## [Eloquent](eloquent/notes.md)
